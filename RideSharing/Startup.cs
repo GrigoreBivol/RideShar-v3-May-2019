@@ -12,7 +12,7 @@ namespace RideSharing
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-           // CreateRolesAndUsers();
+           // CreateRolesAndUsers();   /// test git hub 16 may 2019 
         }
 
         //private void CreateRolesAndUsers()
